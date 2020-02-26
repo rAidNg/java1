@@ -1,3 +1,2 @@
 # java1
-
-still a trash
+not a trash now
